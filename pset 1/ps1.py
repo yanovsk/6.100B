@@ -2,8 +2,6 @@
 # 6.100B Fall 2022
 # Problem Set 1
 # Name: Dima Yanovsky
-# Collaborators: Arteim Saraiev, Makar Kuznietsov
-# Time: 5hrs
 
 from json import load
 from state import State
