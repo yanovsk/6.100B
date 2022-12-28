@@ -1,0 +1,4 @@
+State	Democrat	Republican	EC_Votes
+TX	1	2	530
+CA	4	5	3
+MA	7	8	5

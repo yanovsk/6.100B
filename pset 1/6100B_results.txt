@@ -1,0 +1,4 @@
+State	Democrat	Republican	EC_Votes
+BE	921034	815623	7
+GU	214782	186132	3
+GR	437460	581314	4
