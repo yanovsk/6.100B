@@ -1,0 +1,5 @@
+NYC SF 3000 local 2
+SF LA 7000 highway 5
+LA SD 15000 toll 3
+SD SF 25000 collector 6
+SD LA 1345 uphill 9

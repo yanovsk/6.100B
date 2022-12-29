@@ -1,0 +1,5 @@
+N0 N1 10 highway 1
+N1 N2 10 highway 1
+N0 N3 5 local 1
+N3 N4 5 local 1
+N4 N2 5 local 1
